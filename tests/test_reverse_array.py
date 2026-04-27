@@ -1,6 +1,3 @@
-import pytest
-
-
 from src.my_array import MyArray
 from src.reverse_array import reverse_array
 

@@ -1,5 +1,3 @@
-import pytest
-
 from src.my_array import MyArray
 from src.two_sum import two_sum
 

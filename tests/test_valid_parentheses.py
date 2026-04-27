@@ -1,4 +1,3 @@
-import pytest
 from src.valid_parentheses import is_valid_parentheses
 
 

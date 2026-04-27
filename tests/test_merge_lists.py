@@ -1,4 +1,3 @@
-import pytest
 from src.my_node import MyNode
 from src.merge_lists import merge_lists
 
