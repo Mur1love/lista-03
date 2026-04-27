@@ -1,4 +1,3 @@
-import pytest
 from src.my_array import MyArray
 from src.quick_sort import quick_sort
 

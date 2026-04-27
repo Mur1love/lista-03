@@ -1,4 +1,3 @@
-import pytest
 from src.my_node import MyNode
 from src.reverse_linked_list import reverse_linked_list
 

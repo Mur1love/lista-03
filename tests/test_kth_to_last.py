@@ -1,4 +1,3 @@
-import pytest
 from src.my_node import MyNode
 from src.kth_to_last import kth_to_last
 

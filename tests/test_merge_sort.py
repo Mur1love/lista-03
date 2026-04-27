@@ -1,4 +1,3 @@
-import pytest
 from src.my_array import MyArray
 from src.merge_sort import merge_sort
 
